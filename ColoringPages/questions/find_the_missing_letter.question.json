@@ -1,0 +1,24 @@
+{
+  "format": "colorpop-question",
+  "schemaVersion": 1,
+  "id": "find_the_missing_letter",
+  "version": 1,
+  "prompt": "Find the missing letter!",
+  "correctAnswer": "S",
+  "isSentence": false,
+  "clueItems": [
+    "⭐",
+    "?",
+    "T",
+    "A",
+    "R"
+  ],
+  "wrongAnswers": [
+    "C",
+    "D",
+    "L"
+  ],
+  "levels": [
+    "pre-k"
+  ]
+}
